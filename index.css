@@ -1,0 +1,690 @@
+.origin-history,
+.relevant-figures {
+  height: 0.27%;
+  top: 0.38%;
+  display: inline-block;
+  width: 163px;
+  cursor: pointer;
+}
+.origin-history {
+  position: absolute;
+  left: calc(50% + 157px);
+  font-family: var(--font-jacques-francois);
+  text-align: left;
+}
+.relevant-figures {
+  left: calc(50% + 360px);
+}
+.neoclassica,
+.paintings,
+.relevant-figures {
+  position: absolute;
+  font-family: var(--font-jacques-francois);
+  text-align: left;
+}
+.paintings {
+  height: 0.27%;
+  top: 0.38%;
+  left: calc(50% + 563px);
+  display: inline-block;
+  width: 93px;
+  cursor: pointer;
+}
+.neoclassica {
+  top: 0.28%;
+  left: calc(50% - 676px);
+  font-size: 35px;
+}
+.wolfe-1-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 720px);
+  max-height: 100%;
+  width: 1440px;
+  object-fit: cover;
+}
+.group-child {
+  position: absolute;
+  height: 33.61%;
+  top: 28.97%;
+  bottom: 37.43%;
+  left: calc(50% - 341px);
+  background-color: var(--color-gainsboro);
+  width: 748px;
+  opacity: 0.8;
+  mix-blend-mode: hard-light;
+}
+.the-neoclassic-period {
+  margin: 0;
+}
+.the-neoclassic-period-container {
+  position: absolute;
+  top: 188px;
+  left: calc(50% - 297px);
+  display: inline-block;
+  font-weight: 700;
+  width: 659px;
+  height: 116px;
+}
+.neoclassicm {
+  color: #ff0808;
+}
+.a-peek-into-container {
+  position: absolute;
+  top: 304px;
+  left: calc(50% - 225.5px);
+  font-size: 45px;
+  display: inline-block;
+  font-weight: 700;
+  width: 516px;
+  height: 103px;
+}
+.wolfe-1-parent {
+  position: absolute;
+  height: 6.64%;
+  top: 1.02%;
+  bottom: 92.33%;
+  left: calc(50% - 720px);
+  width: 1440px;
+  text-align: left;
+  font-size: 64px;
+}
+.frame-child {
+  position: absolute;
+  top: 1118px;
+  left: calc(50% + 219px);
+  background-color: var(--color-white);
+  width: 322px;
+  height: 555px;
+}
+.johann-joachim-winckelmann-an-icon {
+  position: absolute;
+  top: 1123px;
+  left: calc(50% + 225px);
+  width: 312px;
+  height: 545px;
+  object-fit: cover;
+}
+.the-one-way {
+  position: absolute;
+  top: 1717px;
+  left: calc(50% + 204px);
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  font-weight: 300;
+  width: 341px;
+  height: 44px;
+}
+.johann-winckelmann-1717,
+.origin-history1,
+.the-father-of {
+  position: absolute;
+  top: 1691px;
+  left: calc(50% + 216px);
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 341px;
+  height: 13px;
+}
+.johann-winckelmann-1717,
+.origin-history1 {
+  top: 1079px;
+  left: calc(50% + 245px);
+  width: 259px;
+}
+.origin-history1 {
+  top: 834px;
+  left: calc(50% - 557px);
+  font-size: var(--font-size-21xl);
+  text-decoration: underline;
+  font-weight: 700;
+  text-align: left;
+  width: 306px;
+  height: 51px;
+  cursor: pointer;
+}
+.neoclassicism-is-somewhat,
+.the-movement-was-container {
+  position: absolute;
+  top: 931px;
+  left: calc(50% - 557px);
+  font-size: var(--font-size-11xl);
+  text-align: justify;
+  display: inline-block;
+  width: 706px;
+}
+.the-movement-was-container {
+  top: 1157px;
+  height: 759px;
+}
+.group-item {
+  position: absolute;
+  top: 90px;
+  left: calc(50% + 215.5px);
+  background-color: var(--color-white);
+  width: 319.6px;
+  height: 306px;
+}
+.bennj-1-icon {
+  position: absolute;
+  top: 95px;
+  left: calc(50% + 220.5px);
+  width: 309.6px;
+  height: 296px;
+  object-fit: cover;
+}
+.american-british-painter,
+.benjamin-west- {
+  position: absolute;
+  left: calc(50% + 217.5px);
+  display: inline-block;
+  width: 339.5px;
+}
+.benjamin-west- {
+  top: 470px;
+  font-weight: 300;
+  height: 17px;
+}
+.american-british-painter {
+  top: 437px;
+  font-size: var(--font-size-base);
+  height: 13px;
+}
+.born-in-pennsylvania {
+  top: 95px;
+  font-size: var(--font-size-11xl);
+  text-align: justify;
+  display: inline-block;
+  width: 689.9px;
+  height: 287px;
+}
+.born-in-pennsylvania,
+.rectangle-parent,
+.relevant-figures1 {
+  position: absolute;
+  left: calc(50% - 557px);
+}
+.relevant-figures1 {
+  top: 0;
+  font-size: var(--font-size-21xl);
+  text-decoration: underline;
+  display: inline-block;
+  font-weight: 700;
+  text-align: left;
+  width: 312px;
+  height: 51px;
+  cursor: pointer;
+}
+.rectangle-parent {
+  top: 2059px;
+  width: 1114px;
+  height: 487px;
+  font-size: var(--font-size-mini);
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 216.4px);
+  background-color: var(--color-white);
+  width: 318.7px;
+  height: 306px;
+}
+.jean-1-icon {
+  position: absolute;
+  top: 5px;
+  left: calc(50% + 221.4px);
+  width: 308.8px;
+  height: 296px;
+  object-fit: cover;
+}
+.french-sculptor,
+.jean-antoine-houdon- {
+  position: absolute;
+  left: calc(50% + 218.4px);
+  display: inline-block;
+  width: 338.6px;
+}
+.jean-antoine-houdon- {
+  top: 380px;
+  font-weight: 300;
+  height: 17px;
+}
+.french-sculptor {
+  top: 347px;
+  font-size: var(--font-size-base);
+  height: 13px;
+}
+.jean-grew-up,
+.rectangle-group {
+  position: absolute;
+  left: calc(50% - 557px);
+}
+.jean-grew-up {
+  top: 5px;
+  font-size: var(--font-size-11xl);
+  white-space: pre-wrap;
+  text-align: justify;
+  display: inline-block;
+  width: 688.1px;
+  height: 287px;
+}
+.rectangle-group {
+  top: 2611px;
+  width: 1114px;
+  height: 397px;
+  font-size: var(--font-size-mini);
+}
+.antonio-canova-,
+.italian-sculptor {
+  position: absolute;
+  left: calc(50% + 218.4px);
+  display: inline-block;
+  width: 338.6px;
+}
+.antonio-canova- {
+  top: 390px;
+  font-weight: 300;
+  height: 48px;
+}
+.italian-sculptor {
+  top: 357px;
+  font-size: var(--font-size-base);
+  height: 13px;
+}
+.antonio-was-an,
+.rectangle-container {
+  position: absolute;
+  left: calc(50% - 557px);
+}
+.antonio-was-an {
+  top: 14px;
+  font-size: var(--font-size-11xl);
+  text-align: justify;
+  display: inline-block;
+  width: 688.1px;
+  height: 287px;
+}
+.rectangle-container {
+  top: 3073px;
+  width: 1114px;
+  height: 438px;
+  font-size: var(--font-size-mini);
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 218px);
+  background-color: var(--color-white);
+  width: 321px;
+  height: 306px;
+}
+.angelica-1-icon {
+  position: absolute;
+  top: 5px;
+  left: calc(50% + 223px);
+  width: 311px;
+  height: 296px;
+  object-fit: cover;
+}
+.angelica-kauffman-,
+.angelica-was-seen-container,
+.swiss-painter {
+  position: absolute;
+  left: calc(50% + 220px);
+  display: inline-block;
+  width: 341px;
+}
+.angelica-kauffman- {
+  top: 390px;
+  font-weight: 300;
+  height: 17px;
+}
+.angelica-was-seen-container,
+.swiss-painter {
+  top: 347px;
+  font-size: var(--font-size-base);
+  height: 13px;
+}
+.angelica-was-seen-container {
+  top: 5px;
+  left: calc(50% - 561px);
+  font-size: var(--font-size-11xl);
+  text-align: justify;
+  width: 693px;
+  height: 287px;
+}
+.group-div {
+  position: absolute;
+  top: 3576px;
+  left: calc(50% - 557px);
+  width: 1122px;
+  height: 407px;
+  font-size: var(--font-size-mini);
+}
+.jacques-louis-david- {
+  position: absolute;
+  top: 380px;
+  left: calc(50% + 220px);
+  display: inline-block;
+  font-weight: 300;
+  width: 341px;
+  height: 17px;
+}
+.defied-his-familys {
+  position: absolute;
+  top: 5px;
+  left: calc(50% - 561px);
+  font-size: var(--font-size-11xl);
+  text-align: justify;
+  display: inline-block;
+  width: 693px;
+  height: 323px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 4048px;
+  left: calc(50% - 557px);
+  width: 1122px;
+  height: 397px;
+  font-size: var(--font-size-mini);
+}
+.group-child3 {
+  position: absolute;
+  top: 448px;
+  left: calc(50% - 501px);
+  background-color: var(--color-gainsboro);
+  width: 1002px;
+  height: 723px;
+}
+.the-oath-of-the-horatii-3-1 {
+  position: absolute;
+  top: 453px;
+  left: calc(50% - 496px);
+  width: 992px;
+  height: 713px;
+  object-fit: cover;
+}
+.i,
+.oath-of-the {
+  position: absolute;
+  left: calc(50% - 185px);
+  display: inline-block;
+  width: 341px;
+}
+.i {
+  top: 1230px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  height: 17px;
+}
+.oath-of-the {
+  top: 1197px;
+  font-size: var(--font-size-base);
+  height: 13px;
+}
+.blank-line5 {
+  margin: 0;
+  color: var(--color-gold);
+}
+.in-the-painting {
+  white-space: pre-wrap;
+}
+.span {
+  color: var(--color-gold);
+}
+.for-its-art,
+.paintings1,
+.the-painting-represents-container {
+  position: absolute;
+  top: 1278px;
+  left: calc(50% - 561px);
+  display: inline-block;
+  text-align: justify;
+  width: 1122px;
+  height: 287px;
+}
+.for-its-art,
+.paintings1 {
+  top: 135px;
+  height: 215px;
+}
+.paintings1 {
+  top: 0;
+  left: calc(50% - 558px);
+  font-size: var(--font-size-21xl);
+  text-decoration: underline;
+  font-weight: 700;
+  text-align: left;
+  width: 186px;
+  height: 51px;
+  cursor: pointer;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 4522px;
+  left: calc(50% - 561px);
+  width: 1122px;
+  height: 1565px;
+  font-size: var(--font-size-11xl);
+}
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 531px);
+  background-color: var(--color-gainsboro);
+  width: 1034px;
+  height: 511px;
+}
+.ddeath-1-icon {
+  position: absolute;
+  top: 5px;
+  left: calc(50% - 526px);
+  width: 1024px;
+  height: 501px;
+  object-fit: cover;
+}
+.i1,
+.the-death-of {
+  position: absolute;
+  left: calc(50% - 185px);
+  display: inline-block;
+  width: 341px;
+}
+.i1 {
+  top: 570px;
+  font-weight: 300;
+  height: 17px;
+}
+.the-death-of {
+  top: 537px;
+  font-size: var(--font-size-base);
+  white-space: pre-wrap;
+  height: 13px;
+}
+.span1 {
+  font-family: var(--font-inria-serif);
+}
+.the-death-of-container {
+  position: absolute;
+  top: 618px;
+  left: calc(50% - 561px);
+  font-size: var(--font-size-11xl);
+  text-align: justify;
+  display: inline-block;
+  width: 1122px;
+  height: 179px;
+}
+.group-child5,
+.rectangle-parent3 {
+  position: absolute;
+  top: 6152px;
+  left: calc(50% - 561px);
+  width: 1122px;
+  height: 797px;
+}
+.group-child5 {
+  top: 0;
+  left: calc(50% - 531px);
+  background-color: var(--color-gainsboro);
+  width: 1034px;
+  height: 542px;
+}
+.gela-1-icon {
+  position: absolute;
+  top: 5px;
+  left: calc(50% - 526px);
+  width: 1024px;
+  height: 532px;
+  object-fit: cover;
+}
+.i2 {
+  position: absolute;
+  top: 601px;
+  left: calc(50% - 185px);
+  display: inline-block;
+  font-weight: 300;
+  width: 341px;
+  height: 17px;
+}
+.cornelia-pointing-to,
+.painted-in-1785-cornelia {
+  position: absolute;
+  top: 568px;
+  left: calc(50% - 264px);
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 528px;
+  height: 13px;
+}
+.painted-in-1785-cornelia {
+  top: 649px;
+  left: calc(50% - 561px);
+  font-size: var(--font-size-11xl);
+  text-align: justify;
+  width: 1122px;
+  height: 179px;
+}
+.group-child6,
+.rectangle-parent4 {
+  position: absolute;
+  top: 7014px;
+  left: calc(50% - 561px);
+  width: 1122px;
+  height: 828px;
+}
+.group-child6 {
+  top: 0;
+  left: calc(50% - 539.5px);
+  background-color: var(--color-gainsboro);
+  width: 441px;
+  height: 691px;
+}
+.leco-1-icon {
+  position: absolute;
+  top: 5px;
+  left: calc(50% - 534.5px);
+  width: 431px;
+  height: 681px;
+  object-fit: cover;
+}
+.i3,
+.lecorche-jean-antoine {
+  position: absolute;
+  display: inline-block;
+}
+.i3 {
+  top: 750px;
+  left: calc(50% - 504.5px);
+  font-weight: 300;
+  width: 341px;
+  height: 17px;
+}
+.lecorche-jean-antoine {
+  top: 717px;
+  left: calc(50% - 583.5px);
+  font-size: var(--font-size-base);
+  width: 528px;
+  height: 13px;
+}
+.houdons-lecorch-is-a-life-s-container {
+  position: absolute;
+  top: 173px;
+  left: calc(50% - 43.5px);
+  font-size: var(--font-size-11xl);
+  text-align: justify;
+  display: inline-block;
+  width: 627px;
+  height: 395px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 7907px;
+  left: calc(50% - 583px);
+  width: 1167px;
+  height: 767px;
+}
+.group-child7 {
+  top: 0;
+  left: calc(50% + 101.5px);
+  background-color: var(--color-gainsboro);
+  width: 441px;
+  height: 726px;
+}
+.cpd-1-icon,
+.group-child7,
+.i4 {
+  position: absolute;
+}
+.cpd-1-icon {
+  top: 5px;
+  left: calc(50% + 106.5px);
+  width: 431px;
+  height: 716px;
+  object-fit: cover;
+}
+.i4 {
+  top: 785px;
+  left: calc(50% + 137.5px);
+  display: inline-block;
+  font-weight: 300;
+  width: 341px;
+  height: 17px;
+}
+.antonio-canovas-sculpture,
+.psyche-revived-by {
+  position: absolute;
+  top: 752px;
+  left: calc(50% + 58.5px);
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 528px;
+  height: 13px;
+}
+.antonio-canovas-sculpture {
+  top: 262px;
+  left: calc(50% - 586.5px);
+  font-size: var(--font-size-11xl);
+  text-align: justify;
+  width: 627px;
+  height: 323px;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 8739px;
+  left: calc(50% - 587px);
+  width: 1173px;
+  height: 802px;
+}
+.origin-history-parent {
+  width: 100%;
+  height: 9770px;
+  position: relative;
+  background-color: #3a3535;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inria-serif);
+}
